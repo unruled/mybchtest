@@ -1,3 +1,5 @@
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 [![PyPI](https://img.shields.io/pypi/status/bigchaindb.svg?maxAge=2592000)](https://pypi.python.org/pypi/BigchainDB)
 [![PyPI](https://img.shields.io/pypi/v/bigchaindb.svg)](https://pypi.python.org/pypi/BigchainDB)
 [![Travis branch](https://img.shields.io/travis/bigchaindb/bigchaindb/master.svg)](https://travis-ci.org/bigchaindb/bigchaindb)
